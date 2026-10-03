@@ -1,0 +1,6 @@
+# LearnHub Supabase local config (link with: supabase link)
+project_id = "learnhub"
+
+[auth]
+site_url = "http://localhost:3000"
+enable_signup = true
